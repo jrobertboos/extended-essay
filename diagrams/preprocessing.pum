@@ -1,0 +1,10 @@
+@startuml
+(*) --> "Parse imagenet dataset"
+--> "Randomly select images from dataset"
+--> "Write new dataset to storage"
+--> "Open and read new dataset"
+--> "Compress dataset with encoders"
+--> "Analyze compressed images and apply metrics"
+--> "Write metrics to file"
+--> (*)
+@enduml

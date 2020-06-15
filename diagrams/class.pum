@@ -1,0 +1,15 @@
+@startuml
+class Compressor {
+        compress_jpeg()
+        compress_bpg()
+        compress_jpegxr()
+        compress_heif()
+	compress_webp()
+}
+class Metrics {
+        metrics_cr()
+        metrics_mse()
+        metrics_psnr()
+        metrics_ssim()
+}
+@enduml

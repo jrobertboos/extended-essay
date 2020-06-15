@@ -1,0 +1,28 @@
+* Essay
+** Research Question
+How is the persion and speed of an object recognition CNN affected when images
+are compressed through discrete cosine transformations.
+** Layout
+1. Introduction
+2. Background Research
+    2.1. CNN
+    2.2. Encoders
+3. Experiment Methodology
+    3.1. Validation Dataset
+    3.2. Processing the Dataset
+    3.3. Variables
+4. Experiment Results
+   4.1. Qualitative Analysis
+5. Discussion
+6. Conclusion
+7. Works Cited
+8. Appendix
+** Reflections
+*** First Reflection Session
+I chose computer science as my topic because I want to pursue computer science
+in the future. I brainstormed ideas such as object recognition, stereoscopic
+vision, image compression and deep learning. I chose object recognition and
+image compression as there were numerous experiments I could conduct. Initial
+research revealed rich background literature that offered many routes I could
+take, my favriote being the effect of image compression on object recognition. I
+will continue to research this topic.
