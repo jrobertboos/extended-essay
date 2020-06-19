@@ -145,23 +145,43 @@ Need to add experimental results about speed.
 Need to add experimental results about speed.
 #+END_COMMENT
 * Discussion
-** Analyzing encoders
-*** BPG
-*** HEIF
-*** JPEG
-*** JPEGXR
-*** WebP
-** Analyzing metrics
-*** CR
-*** MSE
-*** PSNR
-*** SSIM
-** Analyzing the Accuracy and Speed data
-*** Accuracy
-*** Speed
-#+BEGIN_COMMENT
-Need to discuss results about speed.
-#+END_COMMENT
+** Analyze Structures
+#+CAPTION: ILSVRC2012_val_00007154 - Figure
+[[file:/home/jrobertboos/Code/extended-essay/data/graphs/ILSVRC2012_val_00007154.JPEG]]
+
+#+CAPTION: ILSVRC2012_val_00011022 - Figure 
+[[file:/home/jrobertboos/Code/extended-essay/data/graphs/ILSVRC2012_val_00011022.JPEG]]
+
+#+CAPTION: ILSVRC2012_val_00049831 - Figure
+[[file:/home/jrobertboos/Code/extended-essay/data/graphs/ILSVRC2012_val_00049831.JPEG]]
+
+** Analyze Birds
+#+CAPTION: ILSVRC2012_val_00015392
+[[file:/home/jrobertboos/Code/extended-essay/data/graphs/ILSVRC2012_val_00015392.JPEG]]
+
+#+CAPTION: ILSVRC2012_val_00019998
+[[file:/home/jrobertboos/Code/extended-essay/data/graphs/ILSVRC2012_val_00019998.JPEG]]
+
+#+CAPTION: 
+[[file:/home/jrobertboos/Code/extended-essay/data/graphs/ILSVRC2012_val_00025491.JPEG]]
+
+#+CAPTION: image caption
+[[file:/home/jrobertboos/Code/extended-essay/data/graphs/ILSVRC2012_val_00033756.JPEG]]
+
+#+CAPTION: image caption
+[[file:/home/jrobertboos/Code/extended-essay/data/graphs/ILSVRC2012_val_00039374.JPEG]]
+
+** Analyzing Positive Correlation
+** Analyzing Negative Correlation
+** Analyzing SSIM vs CR
+#+CAPTION: 
+[[file:/home/jrobertboos/Code/extended-essay/data/graphs/ILSVRC2012_val_00021915.JPEG]]
+
+As repersented in these graphs the SSIM graphs are always the opposite of the CR graphs.
+
+
+
+
 * Conclusion
 * Works Cited 
 * Appendix
